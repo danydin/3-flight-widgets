@@ -105,3 +105,4 @@ function loadNewFlights() {
 }
 
 setInterval(loadNewFlights, 2000)
+
